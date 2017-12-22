@@ -1,2 +1,2 @@
 # Application1
-Testing push commands 
+Testing push ,pull , creation commands of git terminal 
